@@ -61,6 +61,9 @@ Generates:
 python plot_losses.py
 ```
 
+https://drive.google.com/drive/folders/1Qi-O6pLWszN3w543WrxfueQTU0gGyXNJ?usp=sharing
+here there is mlp and cnn models in this link. 
+
 Shows separate training history plots for each model.
 
 ## Mlp Loss
